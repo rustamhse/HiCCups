@@ -4,6 +4,9 @@
 
 HiCCups is a PyQt5-based desktop application designed for processing High-throughput Chromosome Conformation Capture (Hi-C) data. Starting from raw FASTQ files, our tool provides an end-to-end solution, including read alignment, Hi-C data processing, and visualization of chromosomal interactions through heatmaps. 
 
+![image](https://github.com/rustamhse/HiCCups/assets/74643940/fd62d62a-3921-40cd-a0e8-2377a87774f5)
+
+
 ## Features
 
 - **Iterative Read Alignment**: Utilizes Bowtie2 for efficient and accurate mapping of Hi-C sequencing reads.
