@@ -72,10 +72,6 @@ The main outputs of HiCCups include:
 
 Contributions to HiCCups are welcome. Please fork the repository and submit pull requests with your enhancements. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
 Rustam Ziyoev - [ziyoevr@yandex.ru](mailto:ziyoevr@yandex.ru)
