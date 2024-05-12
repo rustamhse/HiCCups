@@ -6,6 +6,11 @@ HiCCups is a PyQt5-based desktop application designed for processing High-throug
 
 ![image](https://github.com/rustamhse/HiCCups/assets/74643940/fd62d62a-3921-40cd-a0e8-2377a87774f5)
 
+## Demonstration
+
+[Screencast from 2024-05-12 17-36-27.webm](https://github.com/rustamhse/HiCCups/assets/74643940/c4c5d163-ee84-42f4-92db-98a0ce014832)
+
+
 
 ## Features
 
